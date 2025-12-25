@@ -1,9 +1,29 @@
-{
-  "case_id": "CASE_10245",
-  "case_type": "Flood Insurance",
-  "location": "Florida",
-  "claim_amount": 75000,
-  "property_type": "Residential",
-  "incident_date": "2024-08-12",
-  "priority": "High"
-}
+[
+    {
+        "case_id": "CASE_10245",
+        "case_type": "Flood Insurance",
+        "location": "Florida",
+        "claim_amount": 75000,
+        "property_type": "Residential",
+        "incident_date": "2024-08-12",
+        "priority": "High"
+    },
+    {
+        "case_id": "CASE_10246",
+        "case_type": "Flood Insurance",
+        "location": "California",
+        "claim_amount": 40000,
+        "property_type": "Commercial",
+        "incident_date": "2024-07-05",
+        "priority": "Medium"
+    },
+    {
+        "case_id": "CASE_10247",
+        "case_type": "Fire Insurance",
+        "location": "Texas",
+        "claim_amount": 120000,
+        "property_type": "Residential",
+        "incident_date": "2024-06-20",
+        "priority": "High"
+    }
+]

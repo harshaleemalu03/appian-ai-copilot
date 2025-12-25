@@ -1,8 +1,23 @@
-{
-  "recommended_action": "On-site inspection is mandatory before claim approval.",
-  "reasoning": "High-value flood insurance claim in a high-risk zone requires physical verification as per policy.",
-  "source_document": "Florida Flood Insurance Policy 2024",
-  "section": "Section 4.2",
-  "page": 18,
-  "confidence_level": "High"
-}
+[
+    {
+        "case_id": "CASE_10245",
+        "recommended_action": "On-site inspection is mandatory for high-value flood claims.",
+        "source_document": "Flood Insurance Policy 2024",
+        "section": "4.2",
+        "page": 18
+    },
+    {
+        "case_id": "CASE_10246",
+        "recommended_action": "Inspection optional for claims below $50,000.",
+        "source_document": "Flood Insurance Policy 2024",
+        "section": "3.1",
+        "page": 12
+    },
+    {
+        "case_id": "CASE_10247",
+        "recommended_action": "Immediate verification required for all high-value fire claims.",
+        "source_document": "Fire Insurance Policy 2024",
+        "section": "5.3",
+        "page": 22
+    }
+]
