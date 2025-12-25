@@ -1,0 +1,9 @@
+{
+  "case_id": "CASE_10245",
+  "case_type": "Flood Insurance",
+  "location": "Florida",
+  "claim_amount": 75000,
+  "property_type": "Residential",
+  "incident_date": "2024-08-12",
+  "priority": "High"
+}
